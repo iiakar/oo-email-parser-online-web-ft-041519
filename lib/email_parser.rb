@@ -1,17 +1,17 @@
-class EmailParser
-  attr_accessor :name 
+class EmailParser 
+
+def parse 
   
-  def EmailParser(parse)
-  @parse = parse 
+
+
+
+
+
+
+
+
+
+
+
 end 
-
-class Song
-
-attr_accessor :name 
-
-def initialize(name) 
- @name = name 
-	end 
-end
-
 
